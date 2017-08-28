@@ -245,10 +245,11 @@ iterm2에서 아래와 같이 입력해서 테마 디렉토리로 들어간다.
         CURRENT_BG=''
     }
 
-- 참고 링크  
--- [Ulgoon's Blog
-](https://blog.ulgoon.com/my-dev-environment/)  
-[꿈 많은 개발자가 되자](http://thdev.tech/mac/2016/05/01/Mac-ZSH-Install.html)  
-[초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/12/zsh-alias/)  
-[totuworld's tech blog
-](http://totuworld.github.io/2016/04/08/zsh2line/)
+---
+
+## 참고 링크
+
+- [Ulgoon's Blog](https://blog.ulgoon.com/my-dev-environment/)
+- [꿈 많은 개발자가 되자](http://thdev.tech/mac/2016/05/01/Mac-ZSH-Install.html)
+- [초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/12/zsh-alias/)
+- [totuworld's tech blog](http://totuworld.github.io/2016/04/08/zsh2line/)
