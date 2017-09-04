@@ -11,3 +11,9 @@
 ## zsh 및 oh-my-zsh 설치
 
 [zsh, oh-my-zsh 설치](zsh&oh-my-zsh_설치.md)
+
+---
+
+## bullet-train 테마 설치
+
+[bullet-train 테마 설치](bullet-train_테마_설치.md)
